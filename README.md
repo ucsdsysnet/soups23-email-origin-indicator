@@ -24,6 +24,10 @@ This app is developed with React JS.
 
 #### Configure Your Firebase Credentials
 ```bash
+# Clone repo
+git clone https://github.com/ucsdsysnet/soups23-email-origin-indicator.git
+
+# Update your firebase credentials.
 cd gmail-web-client/src/lib
 vim firebase.js
 # Then add your firebase credentials.
@@ -31,14 +35,12 @@ vim firebase.js
 
 #### Deploy Locally
 ```bash
-# Clone repo
-git clone https://github.com/alexliu0809/gmail-ui-redesign.git
 
 # Update npm if your npm version is too low (i.e. < 8)
 # npm install -g npm@8
 
 # Install dependencies
-cd gmail-redesign-code
+cd gmail-web-client
 rm -rf node_modules # remove old installation
 rm package-lock.json yarn.lock # remove old locks
 npm cache clear --force
@@ -53,7 +55,7 @@ yarn start
 
 #### Deploy on Firebase
 ```bash
-cd gmail-redesign-code
+cd gmail-web-client
 
 # Install dependencies
 npm install -g firebase-tools
