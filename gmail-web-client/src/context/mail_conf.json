@@ -1,0 +1,146 @@
+[
+  {
+    "from": "alerts@chase.com",
+    "from_name": "Chase Bank",
+    "mailfrom": "alerts@chasesupport.com",
+    "to": "participant@gmail.com",
+    "subject": "Your year-end report has arrived",
+    "body": "Your 2021 year-end summary is ready",
+    "file": "chase.html.js", 
+    "read": false,
+    "category": "Primary",
+    "date": "04/25/2022, 08:01:23"
+  },
+  {
+    "from": "notification@cit.com",
+    "from_name": "CIT Bank",
+    "mailfrom": "host@e2ma.net",
+    "to": "participant@gmail.com",
+    "body": "Your CIT bank account information.",
+    "file": "cit.html.js", 
+    "subject": "Your CIT Bank Info",
+    "read": true,
+    "category": "Primary",
+    "date": "04/25/2022, 08:01:23"
+  },  
+  {
+    "from": "john-wilcox@gmail.com",
+    "from_name": "John Wilcox",
+    "to": "participant@gmail.com",
+    "body": "Hi, would you be able to forward me those TPS reports you mentioned during the meeting? ",
+    "file": "documents.html.js", 
+    "subject": "Request for documents",
+    "read": true,
+    "category": "Primary",
+    "date": "04/04/2022, 08:10:00" 	
+  },
+  {
+    "from": "no-reply@claims.com",
+    "from_name": "no-reply@claims.com",
+    "to": "participant@gmail.com",
+    "body": "Please be advised that the below referenced submission has been received!",
+    "file": "claim.html.js", 
+    "subject": "Claim receipt",
+    "read": true,
+    "category": "Primary",
+    "date": "04/03/2022, 11:06:00"
+  },
+  {
+    "from": "azizailen@gmail.com",
+    "from_name": "Aziz Ailen",
+    "to": "participant@gmail.com",
+    "body": "Hey everyone, we're planning on having a picnic this weekend at the beach at 5pm on Saturday. Reply to this email to RSVP and let us know how many people will be coming! We'll provide the food.",
+    "file": "picnic.html.js",
+    "subject": "Picnic this weekend?",
+    "read": true,
+    "category": "Primary",
+    "date": "03/27/2022, 10:29:00"
+  },
+  {
+    "from": "elenarhyor85@gmail.com",
+    "from_name": "Elena Rhyor",
+    "to": "participant@gmail.com",
+    "body": "I tried to call you just now, but I'm not able to leave a voicemail. Can you call me back when you have the chance? Thanks",
+    "subject": "Missed call",
+    "read": true,
+    "category": "Primary",
+    "date": "03/27/2022, 16:02:00"
+  },
+  {
+    "from": "myaccount@spectrumemails.com",
+    "from_name": "Spectrum",
+    "to": "participant@gmail.com",
+    "body": "Dear Spectrum Customer, Thank you for your payment.",
+    "file": "spectrum.html.js",
+    "subject": "Payment Received",
+    "read": true,
+    "category": "Primary",
+    "date": "03/24/2022, 09:53:00"
+  },
+  {
+    "from": "DoNotReply@notifications.cartwright.com",
+    "from_name": "The Cartwright Group",
+    "to": "participant@gmail.com",
+    "body": "Dear valued member, when there are changes to your account access, we want to be sure it was you who authorized the changes. \n\nYour records show you requested to turn on two-step authentication. If you did not request this change, please contact us immediately at 1-800-867-5309. \n\nThank you for choosing The Cartwright Group! \n\n\nThis email is sent from an email inbox that is not monitored. Please do not reply.",
+    "subject": "Two-factor authentication enabled",
+    "file": "twofactor.html.js",
+    "read": true,
+    "category": "Primary",
+    "date": "03/24/2022, 09:32:00"
+  },
+  {
+    "from": "noreply@lichess.org",
+    "from_name": "lichess.org",
+    "to": "participant@gmail.com",
+    "body": "You have successfully created your account on https://lichess.org. \n\nHere is your profile page: https://lichess.org/@/participant. You can personalize it on https://lichess.org/account/profile. \n\nHave fun, and may your pieces always find their way to your opponent's king!",
+    "file": "lichess.html.js",
+    "subject": "Account creation - lichess.org",
+    "read": true,
+    "category": "Primary",
+    "date": "03/24/2022, 09:55:00"
+  },
+  {
+    "from": "azizailen@gmail.com",
+    "from_name": "Aziz Ailen",
+    "to": "participant@gmail.com",
+    "body": "hey, here's the brownie reicpe you asked me to send: https://www.allrecipes.com/recipe/10549/best-brownies/\n\n- Aziz\n\n Sent from my iPhone",
+    "file": "recipe.html.js",
+    "subject": "recipe",
+    "read": true,
+    "category": "Primary",
+    "date": "03/20/2022, 08:56:00"
+  },
+  {
+    "from": "davillalobos274@gmail.com",
+    "from_name": "Daria Villalobos",
+    "to": "participant@gmail.com",
+    "body": "Hi all, Something came up today and I won't be able to make it to the 2pm meeting. Would we be able to reschedule for next Wednesday at 2pm?<br><br>Best,<br>Daria",
+    "file": "meeting.html.js",
+    "subject": "Reschedule meeting?",
+    "read": true,
+    "category": "Primary",
+    "date": "03/19/2022, 14:12:00"
+  },
+  {
+    "from": "donotreply@healthmychart.org",
+    "from_name": "MyChart",
+    "to": "participant@gmail.com",
+    "body": "Hello Participant, It's time to refill your Gen* medication(s). Please sign in to MyChart for more information\n\nThanks\nMyChart",
+    "file": "refill.html.js",
+    "subject": "Your Prescription has Refills",
+    "read": true,
+    "category": "Primary",
+    "date": "03/18/2022, 05:33:00"
+  },
+    {
+    "from": "information@info.email.ikea.com",
+    "from_name": "IKEA",
+    "to": "participant@gmail.com",
+    "body": "Thanks for shopping at IKEA! Please let us know how your experience was. ",
+    "file": "ikea.html.js",
+    "subject": "Hello, this is a survey sent to you by IKEA.",
+    "read": true,
+    "category": "Primary",
+    "date": "03/17/2022, 17:33:00"
+  }
+] 
