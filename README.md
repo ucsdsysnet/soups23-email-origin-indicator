@@ -7,16 +7,19 @@ Specifically, in this repository, you can find:
 * Qualtrics survey questions for Control, Random, and Support groups.
 
 ## Read Our Paper
-You can find our paper [here]().
+You can find our paper [here](https://www.usenix.org/system/files/soups2023-liu.pdf).
 
 #### Cite our paper
 ```
-@inproceedings{liu23via,
-    author = {Liu, Enze and Sun, Lu and Bellon, Alex and Ho, Grant and Voelker, Geoffrey M. and Savage, Stefan and Munyaka, Imani N. S.},
-    title = {{Understanding the Viability of Gmail's Origin Indicator for Identifying the Sender}},
-    booktitle = {Proceedings of the Nineteenth Symposium on Usable Privacy and Security},
-    year = {2023},
+@inproceedings {liu23via,
+	author = {Enze Liu and Lu Sun and Alex Bellon and Grant Ho and Geoffrey M. Voelker and Stefan Savage and Imani N. S. Munyaka},
+	title = {Understanding the Viability of Gmail's Origin Indicator for Identifying the Sender},
+	booktitle = {Nineteenth Symposium on Usable Privacy and Security (SOUPS 2023)},
+	year = {2023},
+	pages = {77--96},
+	month = aug,
 }
+
 ```
 
 ## Deploying the Mock Gmail Web UI
